@@ -30,6 +30,6 @@ Criação da imagem a partir do projeto
 Criação e execução do container
 
 ```bash
-  docker run --name NOME-CONTAINER -p 8080:8080 NOME-DA_TAG:latest
+  docker run --name NOME-CONTAINER -p 8080:8080 NOME-DA-TAG:latest
 ```
     
